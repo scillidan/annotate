@@ -113,16 +113,16 @@ a:hover {
 }
 
 mark {
-  background-color: hsla(55, 100%, 77%, 0.5);
+  background-color: hsla(18.6,45.45%,56.86%,0.5);
 }
 
 mark:hover {
   cursor: pointer;
-  background-color: hsla(55, 100%, 77%, 1);
+  background-color: hsla(18.6,45.45%,56.86%,1);
 }
 
 mark.selected {
-  background-color: hsla(55, 100%, 77%, 1);
+  background-color: hsla(18.6,45.45%,56.86%,1);
 }
 
 mark[data-annotation-id]::after {
